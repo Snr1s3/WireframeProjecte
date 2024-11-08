@@ -114,3 +114,5 @@ El alumno puede visualizar un gráfico que muestra las asistencias, divididas po
 ![Ver las Asistencias](ImgDAW/asistenciasAlumno.png)
 
 ---
+
+https://www.figma.com/design/R5dIrVMFIL354Y2sEhY5nY/DAW-PROJECTE?node-id=0-1&t=zyBZZNIPoc6ae6yR-1
