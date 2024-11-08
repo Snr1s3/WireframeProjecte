@@ -22,14 +22,26 @@ L'assitencia es la pagina principal, et mostra l'assistencia d'avui i una grafic
 ![Assitencia](./ImagesDam/assistencia2.png)
 
 ## Alumne Safata d'entrada
-A la safata d'entrada l'alumne veu el remitent i l'assumpte del missatge, després hi ha uns botons per poder navegar entre les diferents pàgines que pot haver-hi.
+A la safata d'entrada l'alumne veu el remitent i l'assumpte del missatge, després hi ha uns botons per poder navegar entre les diferents pàgines que pot haver-hi.     
 
 ![Safata](./ImagesDam/safataentradaalumn.png)
 
 ## Alumne Dades personals
-La pàgina de dades personals mostra el Nom, Cognom, Telèfon, Mail i DNI de l'alumne.
+La pàgina de dades personals mostra el Nom, Cognom, Telèfon, Mail i DNI de l'alumne.      
 
 ![Dades personals](./ImagesDam/dadesalumn.png)
+
+## Professor Assistencia
+Per poder passar llista, ha de seleccionar un grup, despres obte la llista d'alumnes on pot marcar retard, falta i assitencia.    
+
+![Professor Assistencia](./ImagesDam/selecgrup.png)
+
+![Professor Assistencia](./ImagesDam/passarllista.png)
+
+## Professor Safata d'entrdada
+A la safata d'entrada l'alumne veu el remitent i l'assumpte del missatge, després hi ha uns botons per poder navegar entre les diferents pàgines que pot haver-hi.
+
+![ Professor Safata d'entrdada](./ImagesDam/safataentrdaprof.png)
 
 ## Admin
 L'admin pot anar a alumnes per poder afegir, modificar i eliminar o anar a professors per poder fer el mateix.
@@ -39,19 +51,23 @@ L'admin pot anar a alumnes per poder afegir, modificar i eliminar o anar a profe
 ## Admin Alumnes
 Vista dels usuaris alumnes amb el seu mail, tenen un botó per modificar i un per eliminar.
 Sota de tot hi ha un botó per navegar entre les  pàgines.
+
 ![Admin](./ImagesDam/exemplevistaalumnadmin.png)
 
 ## Admin Professors
 Vista dels usuaris professors amb el seu mail, tenen un botó per modificar i un per eliminar.
-Sota de tot hi ha un botó per navegar entre les  pàgines.
+Sota de tot hi ha un botó per navegar entre les  pàgines.  
+
 ![Admin](./ImagesDam/exemplevistaprofadmin.png)
 
 ## Afegir
-Formulari per afegir Alumne o Professor.
+Formulari per afegir Alumne o Professor.  
+
 ![Admin](./ImagesDam/afegir.png)
 
 ## Modificar
-Formulari per modificar Alumne o Professor.
+Formulari per modificar Alumne o Professor.   
+
 ![Admin](./ImagesDam/modificar.png)
 
 # DAW
