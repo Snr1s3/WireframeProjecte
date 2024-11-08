@@ -68,7 +68,8 @@ Muestra una lista completa de los profesores, con sus datos correspondientes. In
 ### Lista de Alumnos
 Esta página, con funciones similares a la de los profesores, muestra un listado completo de los alumnos con opciones de edición y eliminación.
 
-![Lista de Alumnos](ImgDAW/asistenciasProfesor.png)
+![Lista de Alumnos](ImgDAW/admin_verAlumnos.png)
+
 ---
 
 ## Profesor
@@ -86,7 +87,7 @@ El profesor puede ver y modificar las asistencias de los alumnos, con filtros di
 ### Pasar Lista
 Esta página permite pasar lista filtrando por grupo y asignatura. Una vez completada, los cambios pueden guardarse.
 
-![Pasar Lista](ImgDAW/bandejaProfesor.png)
+![Pasar Lista](ImgDAW/asistenciasProfesor.png)
 
 ### Presencia
 La página de presencia permite al profesor registrar sus horas laborales. Al inicio de una clase, se activa un contador mediante un botón, y al finalizar, el contador se detiene y se puede guardar el registro automáticamente. En la parte inferior, un menú permite navegar entre las páginas de registros.
