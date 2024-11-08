@@ -27,6 +27,10 @@ A la safata d'entrada l'alumne veu el remitent i l'assumpte del missatge, despre
 
 ![Safata](./ImagesDam/safataentradaalumn.png)
 
+## Alumne Dades personals
+La pagina de dades personals mostra el Nom, Cognom, Telefon, Mail i Dni de l'alumne.
+
+![Safata](./ImagesDam/dadesalumn.png)
 
 
 
