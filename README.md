@@ -37,7 +37,7 @@ La página principal contiene un **header** donde se encuentra el logo, el nombr
 ![Pantalla principal](ImgDAW/pantallaPrincipal.png)
 
 ### Inicio de Sesión
-Para obtener una cuenta, es necesario contactar con la empresa, indicando el tipo de entidad y rol dentro de la misma para recibir el acceso adecuado. Esta página permite iniciar sesión con el correo proporcionado por EduGestion.
+Para obtener una cuenta, es necesario contactar con EduGestion, indicando el tipo de entidad y rol dentro de la misma para recibir el acceso adecuado. Esta página permite iniciar sesión con el correo proporcionado por EduGestion.
 
 ![Inicio de Sesión](ImgDAW/inicioSesion.png)
 
