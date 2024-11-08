@@ -68,8 +68,7 @@ Muestra una lista completa de los profesores, con sus datos correspondientes. In
 ### Lista de Alumnos
 Esta página, con funciones similares a la de los profesores, muestra un listado completo de los alumnos con opciones de edición y eliminación.
 
-![Lista de Alumnos](ImgDAW/admin_verAlumnos.png)
-
+![Lista de Alumnos](ImgDAW/asistenciasProfesor.png)
 ---
 
 ## Profesor
