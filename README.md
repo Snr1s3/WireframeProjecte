@@ -14,8 +14,8 @@ Recuperar contrasenya té 2 pantalles, una on es posa el mail per enviar el corr
 
 ![Recuperar Contrasenya2](./ImagesDam/recuperarcontrasenya2.png)
 
-## Alumne Assitencia
-L'assitencia es la pagina principal, et mostra l'assistencia d'avui i una grafica del percentatge assistencia, tambe te un filtre per filtrar entre avui, ahir, l'ultims 7 dies i aquesta setmana.
+## Alumne Assistència 
+L'assistència  es la pagina principal, et mostra l'assistencia d'avui i una grafica del percentatge assistencia, tambe te un filtre per filtrar entre avui, ahir, l'ultims 7 dies i aquesta setmana.
 
 ![Assitencia](./ImagesDam/assistencia.png)
 
@@ -31,8 +31,8 @@ La pàgina de dades personals mostra el Nom, Cognom, Telèfon, Mail i DNI de l'a
 
 ![Dades personals](./ImagesDam/dadesalumn.png)
 
-## Professor Assistencia
-Per poder passar llista, ha de seleccionar un grup, despres obte la llista d'alumnes on pot marcar retard, falta i assitencia.    
+## Professor Assistència 
+Per poder passar llista, ha de seleccionar un grup, despres obte la llista d'alumnes on pot marcar retard, falta i assistència .    
 
 ![Professor Assistencia](./ImagesDam/selecgrup.png)
 
