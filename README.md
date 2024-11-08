@@ -21,22 +21,38 @@ L'assitencia es la pagina principal, et mostra l'assistencia d'avui i una grafic
 
 ![Assitencia](./ImagesDam/assistencia2.png)
 
-
 ## Alumne Safata d'entrada
-A la safata d'entrada l'alumne veu el remitent i l'assumpte del missatge, despres hi ha uns botos per oder navegar entre les diferents pagines qe ppot haver-hi.
+A la safata d'entrada l'alumne veu el remitent i l'assumpte del missatge, després hi ha uns botons per poder navegar entre les diferents pàgines que pot haver-hi.
 
 ![Safata](./ImagesDam/safataentradaalumn.png)
 
 ## Alumne Dades personals
-La pagina de dades personals mostra el Nom, Cognom, Telefon, Mail i Dni de l'alumne.
+La pàgina de dades personals mostra el Nom, Cognom, Telèfon, Mail i DNI de l'alumne.
 
-![Safata](./ImagesDam/dadesalumn.png)
+![Dades personals](./ImagesDam/dadesalumn.png)
 
+## Admin
+L'admin pot anar a alumnes per poder afegir, modificar i eliminar o anar a professors per poder fer el mateix.
 
+![Admin](./ImagesDam/inciadmin.png)
 
+## Admin Alumnes
+Vista dels usuaris alumnes amb el seu mail, tenen un botó per modificar i un per eliminar.
+Sota de tot hi ha un botó per navegar entre les  pàgines.
+![Admin](./ImagesDam/exemplevistaalumnadmin.png)
 
+## Admin Professors
+Vista dels usuaris professors amb el seu mail, tenen un botó per modificar i un per eliminar.
+Sota de tot hi ha un botó per navegar entre les  pàgines.
+![Admin](./ImagesDam/exemplevistaprofadmin.png)
 
+## Afegir
+Formulari per afegir Alumne o Professor.
+![Admin](./ImagesDam/afegir.png)
 
+## Modificar
+Formulari per modificar Alumne o Professor.
+![Admin](./ImagesDam/modificar.png)
 
 # DAW
 
