@@ -14,7 +14,7 @@ Recuperar contrasenya té 2 pantalles, una on es posa el mail per enviar el corr
 
 ![Recuperar Contrasenya2](./ImagesDam/recuperarcontrasenya2.png)
 
-## Assitencia
+## Alumne Assitencia
 L'assitencia es la pagina principal, et mostra l'assistencia d'avui i una grafica del percentatge assistencia, tambe te un filtre per filtrar entre avui, ahir, l'ultims 7 dies i aquesta setmana.
 
 ![Assitencia](./ImagesDam/assistencia.png)
@@ -22,9 +22,18 @@ L'assitencia es la pagina principal, et mostra l'assistencia d'avui i una grafic
 ![Assitencia](./ImagesDam/assistencia2.png)
 
 
+## Alumne Safata d'entrada
+A la safata d'entrada l'alumne veu el remitent i l'assumpte del missatge, despres hi ha uns botos per oder navegar entre les diferents pagines qe ppot haver-hi.
+
+![Safata](./ImagesDam/safataentradaalumn.png)
 
 
-# Wireframes Desktop
+
+
+
+
+
+
 # DAW
 
 Es una aplicación que permite la gestión y visualización de los datos del alumnado.
