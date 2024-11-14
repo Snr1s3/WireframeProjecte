@@ -208,6 +208,7 @@ Se ha duplicado esta página para el otro alumno de ejemplo.
 En las asistencias lo que se ha añadido ha sido un porcentaje que se muestra al hacer hover por encima del gráfico.
 ![Ver las Asistencias](ImgDAW/porcentaje_verde.png)
 ![Ver las Asistencias](ImgDAW/porcentaje_rojo.png)
+
 ---
 
 
