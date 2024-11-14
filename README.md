@@ -115,4 +115,57 @@ El alumno puede visualizar un gráfico que muestra las asistencias, divididas po
 
 ---
 
+# Sprint 2
+
+## Páginas de inicio de sesión
+En la página de inicio se han añadido más tipos de inicio de sesión para administradores, profesores y alumnos. Cada uno tiene su manera de iniciar sesión, para los administradores hay un bóton en concreto y para el inicio de profesores también. Los alumnos inician sesión desde google.
+Además si no le añades algún dato te sale un pop-up avisando.
+![google sesión](ImgDAW/googleSession.png)
+![Páginas de inicio de sesión](ImgDAW/inicioSesion2.png)
+![avisos](ImgDAW/avisos_inicioSesion.png)
+
+### Recuperación de Contraseña
+La parte de recuperar la contraseña sigue igual, solo que se ha duplicado la página para que pueda recuperar la contraseña tanto el profesor como el administrador.
+
+## Administrador
+Todas las páginas del administrador se quedan, solamente se añaden 2 pop-up's en la lista de profesores y alumnos para confirmar cuando eliminas un usuario.
+### Añadir y Modificar Profesores y Alumnos
+### Lista de Profesores
+### Lista de Alumnos
+![pop-up](ImgDAW/pop_up_al_prof.png)
+
+
+---
+
+## Profesor
+Todas las páginas de los profesores se quedan igual, solamente que se añaden un pop-up y 2 páginas para la presencia.
+### Bandeja de Entrada
+### Pasar Lista
+### Modificar y Ver Asistencias de los Alumnos
+Esta página sigue igual, solamente que se ha duplicado para añadir un pop-up para confirmar
+![Modificar y Ver Asistencias de los Alumnos](ImgDAW/modificar_alumn.png)
+### Presencia
+Esta parte tiene 2 páginas más, una es como se veria si un profesor inicia una clase y la otra registra las horas al acabar.
+![presencia](ImgDAW/profesor_presencia.png)
+
+---
+
+## Alumno
+### Bandeja de Entrada
+Se ha añadido otra bandeja de entrada más para el otro alumno de ejemplo.
+![Bandeja de Entrada](ImgDAW/bandejaAlumno2.png)
+
+### Mis Datos
+Se ha duplicado esta página para el otro alumno de ejemplo.
+![Mis Datos](ImgDAW/datos2.png)
+
+### Ver las Asistencias
+En las asistencias lo que se ha añadido ha sido un porcentaje que se muestra al hacer hover por encima del gráfico.
+![Ver las Asistencias](ImgDAW/porcentaje_verde.png)
+![Ver las Asistencias](ImgDAW/porcentaje_rojo.png)
+---
+
+
+
+
 https://www.figma.com/design/R5dIrVMFIL354Y2sEhY5nY/DAW-PROJECTE?node-id=0-1&t=zyBZZNIPoc6ae6yR-1
