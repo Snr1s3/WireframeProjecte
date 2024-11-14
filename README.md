@@ -14,17 +14,62 @@ Recuperar contrasenya té 2 pantalles, una on es posa el mail per enviar el corr
 
 ![Recuperar Contrasenya2](./ImagesDam/recuperarcontrasenya2.png)
 
-## Assitencia
-L'assitencia es la pagina principal, et mostra l'assistencia d'avui i una grafica del percentatge assistencia, tambe te un filtre per filtrar entre avui, ahir, l'ultims 7 dies i aquesta setmana.
+## Alumne Assistència 
+L'assistència  es la pagina principal, et mostra l'assistencia d'avui i una grafica del percentatge assistencia, tambe te un filtre per filtrar entre avui, ahir, l'ultims 7 dies i aquesta setmana.
 
 ![Assitencia](./ImagesDam/assistencia.png)
 
 ![Assitencia](./ImagesDam/assistencia2.png)
 
+## Alumne Safata d'entrada
+A la safata d'entrada l'alumne veu el remitent i l'assumpte del missatge, després hi ha uns botons per poder navegar entre les diferents pàgines que pot haver-hi.     
 
+![Safata](./ImagesDam/safataentradaalumn.png)
 
+## Alumne Dades personals
+La pàgina de dades personals mostra el Nom, Cognom, Telèfon, Mail i DNI de l'alumne.      
 
-# Wireframes Desktop
+![Dades personals](./ImagesDam/dadesalumn.png)
+
+## Professor Assistència 
+Per poder passar llista, ha de seleccionar un grup, despres obte la llista d'alumnes on pot marcar retard, falta i assistència .    
+
+![Professor Assistencia](./ImagesDam/selecgrup.png)
+
+![Professor Assistencia](./ImagesDam/passarllista.png)
+
+## Professor Safata d'entrdada
+A la safata d'entrada l'alumne veu el remitent i l'assumpte del missatge, després hi ha uns botons per poder navegar entre les diferents pàgines que pot haver-hi.
+
+![ Professor Safata d'entrdada](./ImagesDam/safataentrdaprof.png)
+
+## Admin
+L'admin pot anar a alumnes per poder afegir, modificar i eliminar o anar a professors per poder fer el mateix.
+
+![Admin](./ImagesDam/inciadmin.png)
+
+## Admin Alumnes
+Vista dels usuaris alumnes amb el seu mail, tenen un botó per modificar i un per eliminar.
+Sota de tot hi ha un botó per navegar entre les  pàgines.
+
+![Admin](./ImagesDam/exemplevistaalumnadmin.png)
+
+## Admin Professors
+Vista dels usuaris professors amb el seu mail, tenen un botó per modificar i un per eliminar.
+Sota de tot hi ha un botó per navegar entre les  pàgines.  
+
+![Admin](./ImagesDam/exemplevistaprofadmin.png)
+
+## Afegir
+Formulari per afegir Alumne o Professor.  
+
+![Admin](./ImagesDam/afegir.png)
+
+## Modificar
+Formulari per modificar Alumne o Professor.   
+
+![Admin](./ImagesDam/modificar.png)
+
 # DAW
 
 Es una aplicación que permite la gestión y visualización de los datos del alumnado.
