@@ -165,6 +165,8 @@ El alumno puede visualizar un gráfico que muestra las asistencias, divididas po
 ## Páginas de inicio de sesión
 En la página de inicio se han añadido más tipos de inicio de sesión para administradores, profesores y alumnos. Cada uno tiene su manera de iniciar sesión, para los administradores hay un bóton en concreto y para el inicio de profesores también. Los alumnos inician sesión desde google.
 Además si no le añades algún dato te sale un pop-up avisando.
+Se han incorporado páginas de inicio de sesión específicas para cada tipo de usuario: administrador, profesor y alumnado. Estas páginas tienen como objetivo aportar mayor dinamismo a la presentación del prototipo. Por ejemplo, al hacer clic en los campos de usuario o contraseña, los datos se completan automáticamente, ofreciendo una experiencia más interactiva.
+![dinámico](ImgDAW/inicioSesion_dinamico1.png)
 ![google sesión](ImgDAW/googleSession.png)
 ![Páginas de inicio de sesión](ImgDAW/inicioSesion2.png)
 ![avisos](ImgDAW/avisos_inicioSesion.png)
@@ -209,90 +211,12 @@ En las asistencias lo que se ha añadido ha sido un porcentaje que se muestra al
 ![Ver las Asistencias](ImgDAW/porcentaje_verde.png)
 ![Ver las Asistencias](ImgDAW/porcentaje_rojo.png)
 
-https://www.figma.com/design/R5dIrVMFIL354Y2sEhY5nY/DAW-PROJECTE?node-id=0-1&t=zyBZZNIPoc6ae6yR-1
 ---
 
-# DAM
+## Paleta de colores y tipografia
+Los colores que predominan en todas las páginas son:
+![paleta de colores](paletaColores.png)
+La tipografía utilizada es Poppins, la cual se adapta perfectamente a la temática gracias a su diseño simple pero atractivo. Por ejemplo, en el caso de una barbería, sería más apropiado optar por una tipografía con un estilo más clásico.
+![tipografia](ImgDAW/tipografia_poppins.webp)
 
-## Login
-
-En el login pot iniciar sessió amb el correu o per Google, si t'has oblidat la contrasenya, la pots recuperar seguint les pantalles de recuperació de contrasenya. Si ets professor o Administrador, tens uns botons que et porten a la pantalla corresponent. En la versió final, segons el correu et porta a la pantalla depenent del rol.  
-
-![Login](./ImagesDamSprint2/login.png)  
-
-## Recuperacio de la contrasenya
-
-Per recuperar la contrasenya primer has de posar el correu i una vegada has introduït el correu, reps un correu i et porta a la pàgina següent per introduir la nova contrasenya.
-
-![Recuperacio de la contrasenya](./ImagesDamSprint2/recuperarContrasenya.png)  
-![Recuperacio de la contrasenya](./ImagesDamSprint2/recuperarContrasenya2.png) 
-
-## Usuari
-
-Quan l'usuari inicia sessió, pot veure la seva assistència. La assistència la pot filtrar per veure la seva assistència d'altres dies, a la part inferior té una barra per poder navegar entra pantalles.
-
-![usuari](./ImagesDamSprint2/assistenciaAlumn.png)  
-
-![usuari](./ImagesDamSprint2/assistenciaAlumn2.png) 
-
-## Safata d'entrada
-
-La safata d'entrada és on estan els missatges que rep l'usuari.
-
-![safata d'entrada](./ImagesDamSprint2/safataEntrada.png)  
-
-## Les meves dades
-
-Les meves dades mostra les dades que guarda l'aplicació i te el botó de log out per tancar sessió de l'aplicació.
-
-![Les meves dades](./ImagesDamSprint2/lesmevesdades.png) 
-
-## Passar llista 
-
-La pàgina inicial de professor és la de passar llista, primer selecciona al grup i després mostra la llista d'alumnes. A la part inferior, hi ha una barra per poder canviar de pantalla, entre safata d'entrada, passar llista i l'horari.
-
-![passar llista](./ImagesDamSprint2/assistenciaProf.png) 
-
-![passar llista](./ImagesDamSprint2/assistenciaProf2.png) 
-
-## Safata d'entrada
-
-La safata d'entrada és on estan els missatges que rep l'usuari.
-
-![safata d'entrada](./ImagesDamSprint2/safataentradaProg.png)  
-
-## Horari
-
-L'horari mostra l'horari propi del  professor, també conté  el botó de log out per tancar sessió de l'aplicació.
-
-![Les meves dades](./ImagesDamSprint2/horariProf.png) 
-
-## Admin
-
-La pàgina inicial d'Administrador conté 2 botons, un per anar a la pàgina amb la llista alumnes i l'altre  per anar a la pàgina amb la llista de professors, la barra inferior conté 2 botons que tenen la mateixa funció que els 2 anteriors i un per tancar sessió.
-
-![Admin](./ImagesDamSprint2/adminLogin.png) 
-
-## LLista Alumnes
-
-La pàgina de la llista d'alumnes conté una llista de tots els usuaris de tipus alumne. Hi ha un botó per modificar els usuaris i un altre per afegir un usuari.
-
-![Alumne](./ImagesDamSprint2/adminALumn.png) 
-
-## LLista Professors
-
-La pàgina de la llista Professors conté una llista de tots els usuaris de tipus professor. Hi ha un botó per modificar els usuaris i un altre per afegir un usuari.
-
-![Professor](./ImagesDamSprint2/adminProf.png) 
-
-## Afegir
-
-Pagina per afegir un usuari.
-
-![afegir](./ImagesDamSprint2/afegir.png) 
-
-## Modificar
-
-Pagina per modiificar un usuari.
-
-![Modificar](./ImagesDamSprint2/modificar.png) 
+https://www.figma.com/design/R5dIrVMFIL354Y2sEhY5nY/DAW-PROJECTE?node-id=0-1&t=zyBZZNIPoc6ae6yR-1
