@@ -5,70 +5,70 @@
 ## Login
 El login té un camp per posar el mail, i un per a la contrasenya. També es podria fer el login amb el correu corporatiu. També hi ha l'opció de recuperar la contrasenya.    
 
-![Login](./ImagesDam/login.png)
+![Login](./ImagesDamSprint1/login.png)
 
 ## Recuperar Contrasenya
 Recuperar contrasenya té 2 pantalles, una on es posa el mail per enviar el correu per poder accedir a la segona pantalla que és la de confirmar la contrasenya.  
 
-![Recuperar Contrasenya1](./ImagesDam/recuperarcontrasenya1.png)
+![Recuperar Contrasenya1](./ImagesDamSprint1/recuperarcontrasenya1.png)
 
-![Recuperar Contrasenya2](./ImagesDam/recuperarcontrasenya2.png)
+![Recuperar Contrasenya2](./ImagesDamSprint1/recuperarcontrasenya2.png)
 
 ## Alumne Assistència 
 L'assistència  es la pagina principal, et mostra l'assistencia d'avui i una grafica del percentatge assistencia, tambe te un filtre per filtrar entre avui, ahir, l'ultims 7 dies i aquesta setmana.
 
-![Assitencia](./ImagesDam/assistencia.png)
+![Assitencia](./ImagesDamSprint1/assistencia.png)
 
-![Assitencia](./ImagesDam/assistencia2.png)
+![Assitencia](./ImagesDamSprint1/assistencia2.png)
 
 ## Alumne Safata d'entrada
 A la safata d'entrada l'alumne veu el remitent i l'assumpte del missatge, després hi ha uns botons per poder navegar entre les diferents pàgines que pot haver-hi.     
 
-![Safata](./ImagesDam/safataentradaalumn.png)
+![Safata](./ImagesDamSprint1/safataentradaalumn.png)
 
 ## Alumne Dades personals
 La pàgina de dades personals mostra el Nom, Cognom, Telèfon, Mail i DNI de l'alumne.      
 
-![Dades personals](./ImagesDam/dadesalumn.png)
+![Dades personals](./ImagesDamSprint1/dadesalumn.png)
 
 ## Professor Assistència 
 Per poder passar llista, ha de seleccionar un grup, despres obte la llista d'alumnes on pot marcar retard, falta i assistència .    
 
-![Professor Assistencia](./ImagesDam/selecgrup.png)
+![Professor Assistencia](./ImagesDamSprint1/selecgrup.png)
 
-![Professor Assistencia](./ImagesDam/passarllista.png)
+![Professor Assistencia](./ImagesDamSprint1/passarllista.png)
 
 ## Professor Safata d'entrdada
 A la safata d'entrada l'alumne veu el remitent i l'assumpte del missatge, després hi ha uns botons per poder navegar entre les diferents pàgines que pot haver-hi.
 
-![ Professor Safata d'entrdada](./ImagesDam/safataentrdaprof.png)
+![ Professor Safata d'entrdada](./ImagesDamSprint1/safataentrdaprof.png)
 
 ## Admin
 L'admin pot anar a alumnes per poder afegir, modificar i eliminar o anar a professors per poder fer el mateix.
 
-![Admin](./ImagesDam/inciadmin.png)
+![Admin](./ImagesDamSprint1/inciadmin.png)
 
 ## Admin Alumnes
 Vista dels usuaris alumnes amb el seu mail, tenen un botó per modificar i un per eliminar.
 Sota de tot hi ha un botó per navegar entre les  pàgines.
 
-![Admin](./ImagesDam/exemplevistaalumnadmin.png)
+![Admin](./ImagesDamSprint1/exemplevistaalumnadmin.png)
 
 ## Admin Professors
 Vista dels usuaris professors amb el seu mail, tenen un botó per modificar i un per eliminar.
 Sota de tot hi ha un botó per navegar entre les  pàgines.  
 
-![Admin](./ImagesDam/exemplevistaprofadmin.png)
+![Admin](./ImagesDamSprint1/exemplevistaprofadmin.png)
 
 ## Afegir
 Formulari per afegir Alumne o Professor.  
 
-![Admin](./ImagesDam/afegir.png)
+![Admin](./ImagesDamSprint1/afegir.png)
 
 ## Modificar
 Formulari per modificar Alumne o Professor.   
 
-![Admin](./ImagesDam/modificar.png)
+![Admin](./ImagesDamSprint1/modificar.png)
 
 # DAW
 
@@ -209,9 +209,38 @@ En las asistencias lo que se ha añadido ha sido un porcentaje que se muestra al
 ![Ver las Asistencias](ImgDAW/porcentaje_verde.png)
 ![Ver las Asistencias](ImgDAW/porcentaje_rojo.png)
 
+https://www.figma.com/design/R5dIrVMFIL354Y2sEhY5nY/DAW-PROJECTE?node-id=0-1&t=zyBZZNIPoc6ae6yR-1
 ---
 
+# DAM
 
+## Login
 
+En el login pot iniciar sessió amb el correu o per Google, si t'has oblidat la contrasenya, la pots recuperar seguint les pantalles de recuperació de contrasenya. Si ets professor o Administrador, tens uns botons que et porten a la pantalla corresponent. En la versió final, segons el correu et porta a la pantalla depenent del rol.  
 
-https://www.figma.com/design/R5dIrVMFIL354Y2sEhY5nY/DAW-PROJECTE?node-id=0-1&t=zyBZZNIPoc6ae6yR-1
+![Login](./ImagesDamSprint2/login.png)  
+
+## Recuperacio de la contrasenya
+
+Per recuperar la contrasenya primer has de posar el correu i una vegada has introduït el correu, reps un correu i et porta a la pàgina següent per introduir la nova contrasenya.
+
+![Recuperacio de la contrasenya](./ImagesDamSprint2/recuperarContrasenya.png)  
+![Recuperacio de la contrasenya](./ImagesDamSprint2/recuperarContrasenya2.png) 
+
+## Usuari
+
+Quan l'usuari inicia sessió, pot veure la seva assistència. La assistència la pot filtrar per veure la seva assistència d'altres dies, a la part inferior té una barra per poder navegar entra pantalles.
+
+![usuari](./ImagesDamSprint2/assistenciaAlumn.png)  
+
+![usuari](./ImagesDamSprint2/assistenciaAlumn2.png) 
+
+## Safata d'entrada
+
+La safata d'entrada és on estan els missatges que rep l'usuari.
+
+![safata d'entrada](./ImagesDamSprint2/safataEntrada.png)  
+
+## Les meves dades
+
+Les meves dades mostra les dades que guarda l'aplicació i te'l botó de log out per tancar sessió de l'aplicació.
