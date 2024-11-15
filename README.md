@@ -243,4 +243,56 @@ La safata d'entrada és on estan els missatges que rep l'usuari.
 
 ## Les meves dades
 
-Les meves dades mostra les dades que guarda l'aplicació i te'l botó de log out per tancar sessió de l'aplicació.
+Les meves dades mostra les dades que guarda l'aplicació i te el botó de log out per tancar sessió de l'aplicació.
+
+![Les meves dades](./ImagesDamSprint2/lesmevesdades.png) 
+
+## Passar llista 
+
+La pàgina inicial de professor és la de passar llista, primer selecciona al grup i després mostra la llista d'alumnes. A la part inferior, hi ha una barra per poder canviar de pantalla, entre safata d'entrada, passar llista i l'horari.
+
+![passar llista](./ImagesDamSprint2/assistenciaProf.png) 
+
+![passar llista](./ImagesDamSprint2/assistenciaProf2.png) 
+
+## Safata d'entrada
+
+La safata d'entrada és on estan els missatges que rep l'usuari.
+
+![safata d'entrada](./ImagesDamSprint2/safataentradaProg.png)  
+
+## Horari
+
+L'horari mostra l'horari propi del  professor, també conté  el botó de log out per tancar sessió de l'aplicació.
+
+![Les meves dades](./ImagesDamSprint2/horariProf.png) 
+
+## Admin
+
+La pàgina inicial d'Administrador conté 2 botons, un per anar a la pàgina amb la llista alumnes i l'altre  per anar a la pàgina amb la llista de professors, la barra inferior conté 2 botons que tenen la mateixa funció que els 2 anteriors i un per tancar sessió.
+
+![Admin](./ImagesDamSprint2/adminLogin.png) 
+
+## LLista Alumnes
+
+La pàgina de la llista d'alumnes conté una llista de tots els usuaris de tipus alumne. Hi ha un botó per modificar els usuaris i un altre per afegir un usuari.
+
+![Alumne](./ImagesDamSprint2/adminALumn.png) 
+
+## LLista Professors
+
+La pàgina de la llista Professors conté una llista de tots els usuaris de tipus professor. Hi ha un botó per modificar els usuaris i un altre per afegir un usuari.
+
+![Professor](./ImagesDamSprint2/adminProf.png) 
+
+## Afegir
+
+Pagina per afegir un usuari.
+
+![afegir](./ImagesDamSprint2/afegir.png) 
+
+## Modificar
+
+Pagina per modiificar un usuari.
+
+![Modificar](./ImagesDamSprint2/modificar.png) 
