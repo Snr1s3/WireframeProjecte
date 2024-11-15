@@ -219,4 +219,11 @@ Los colores que predominan en todas las páginas son:
 La tipografía utilizada es Poppins, la cual se adapta perfectamente a la temática gracias a su diseño simple pero atractivo. Por ejemplo, en el caso de una barbería, sería más apropiado optar por una tipografía con un estilo más clásico.
 ![tipografia](ImgDAW/tipografia_poppins.webp)
 
-https://www.figma.com/design/R5dIrVMFIL354Y2sEhY5nY/DAW-PROJECTE?node-id=0-1&t=zyBZZNIPoc6ae6yR-1
+ 
+# Links    
+
+## DAW   
+https://www.figma.com/design/R5dIrVMFIL354Y2sEhY5nY/DAW-PROJECTE?node-id=0-1&t=zyBZZNIPoc6ae6yR-1   
+
+## DAM    
+https://www.figma.com/design/ZZL4qjU1bLhsO30eIFeIIq/Sprint-1-wireframe?node-id=0-1&t=E22pw4kq7Lhtq1kF-1
