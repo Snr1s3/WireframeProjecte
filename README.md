@@ -215,7 +215,7 @@ En las asistencias lo que se ha añadido ha sido un porcentaje que se muestra al
 
 ## Paleta de colores y tipografia
 Los colores que predominan en todas las páginas son:
-![paleta de colores](paletaColores.png)
+![paleta de colores](ImgDAW/paletaColores.png)
 La tipografía utilizada es Poppins, la cual se adapta perfectamente a la temática gracias a su diseño simple pero atractivo. Por ejemplo, en el caso de una barbería, sería más apropiado optar por una tipografía con un estilo más clásico.
 ![tipografia](ImgDAW/tipografia_poppins.webp)
 
